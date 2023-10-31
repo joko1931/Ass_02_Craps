@@ -77,7 +77,7 @@ public class Main
         return random.nextInt(6) + 1;
     }
 
-    private static boolean promptToPlayAgain(Scanner scann
+    private static boolean promptToPlayAgain(Scanner scanner)
     {
         while (true)
         {
